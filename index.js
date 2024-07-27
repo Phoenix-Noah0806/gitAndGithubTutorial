@@ -4,5 +4,6 @@ const Name="Aayushmaan Jaiswal"
 const dob='08/06/2004'
 const sex="Male" 
 function isabove18(){
-    return age>=18
+    return age>=18 
+    
 }
