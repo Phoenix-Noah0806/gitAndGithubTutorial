@@ -3,3 +3,4 @@ const age =24
 const Name="Aayushmaan Jaiswal"
 const dob='08/06/2004'
 const sex="Male" 
+const course="BTech"
