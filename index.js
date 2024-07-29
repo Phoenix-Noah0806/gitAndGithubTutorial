@@ -10,3 +10,6 @@ function MyName(){
 function newbranch(){
     console.log("This is a new branch")
 }
+function secondbranch(){
+    console.log("This is a second branch")
+}
