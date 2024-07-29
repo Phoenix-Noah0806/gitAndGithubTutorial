@@ -7,3 +7,6 @@ const course="BTech"
 function MyName(){
     console.log(`My name is ${Name}`)
 }
+function newbranch(){
+    console.log("This is a new branch")
+}
