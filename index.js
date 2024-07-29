@@ -13,3 +13,7 @@ function newbranch(){
 function secondbranch(){
     console.log("This is a second branch")
 }
+function Rebase(){
+    console.log("This is a Rebase")
+}
+ 
